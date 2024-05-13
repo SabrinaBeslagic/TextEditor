@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/Icons">
+        <file>Icons/Copy.ico</file>
+        <file>Icons/Cut.ico</file>
+        <file>Icons/New.ico</file>
+        <file>Icons/Open.ico</file>
+        <file>Icons/Paste.ico</file>
+        <file>Icons/Redo.ico</file>
+        <file>Icons/Save as.ico</file>
+        <file>Icons/Save.ico</file>
+        <file>Icons/Undo.ico</file>
+        <file>Icons/bold_106451.ico</file>
+        <file>Icons/italic-text_icon-icons.com_71455.ico</file>
+        <file>Icons/underline-text-option_icon-icons.com_70837.ico</file>
+        <file>Icons/preview_search_find_locate_1551.ico</file>
+    </qresource>
+</RCC>
